@@ -31,7 +31,7 @@ nav a:hover {
 nav a.active {
     /* background: var(--color-bg); */
     background-color: rebeccapurple;
-    color: var(--color-light);
+    color: var(--color-bg);
 }
 
 /* Media queries(small device) */

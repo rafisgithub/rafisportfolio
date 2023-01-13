@@ -41,9 +41,9 @@
 /* Me */
 
 .me {
-background:linear-gradient(var(--color-primary),transparent);
-width: 23rem;
-height: 26rem;
+/* background:linear-gradient(var(--color-primary)); */
+width: 20rem;
+height: max-content;
 position: relative;
 left: calc(50% - 11rem);
 margin-top: 4rem;
@@ -54,7 +54,7 @@ overflow: hidden;
 
 /* Scroll Dowon */
 .scroll_down {
-    position: absolute;
+    position: fixed;
     right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
