@@ -42,9 +42,9 @@
 
 .me {
 background:linear-gradient(var(--color-primary),transparent);
-width: 22rem;
-height: 30rem;
-position: absolute;
+width: 23rem;
+height: 26rem;
+position: relative;
 left: calc(50% - 11rem);
 margin-top: 4rem;
 border-radius: 12rem 12rem 0 0;
@@ -70,6 +70,7 @@ overflow: hidden;
     header{
         height: 90vh;
     }
+    
 }
 
 /* Media queries(small device) */
@@ -77,6 +78,7 @@ overflow: hidden;
     /* .container {
         background: rgb(86, 17, 100);
     } */
+    
     header {
         height: 100vh;
     }

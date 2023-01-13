@@ -2,7 +2,7 @@ import React from 'react';
 import './testimonials.css';
 const Testimonial = () => {
   return (
-    <div>Testimonial</div>
+    <section id='testimonial'>Testimonial</section>
   )
 }
 
