@@ -8,12 +8,12 @@ import AVTR4 from '../../assets/avatar4.jpg';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Snoow',
+    name: 'SMS Robin hud',
     review:'Mr.Rafi is a best service provider forever.On behalf he deserved 5 stars.',
   },
   {
     avatar: AVTR2,
-    name: 'Shattra wale',
+    name: 'Mehedi Hasan jhon',
     review:'Mr.Rafi is a best service provider forever.On behalf he deserved 5 stars.',
   },
   {

@@ -21,7 +21,7 @@ function Services() {
             <p>I'm expert in UI/US designing</p>
             </li>
 
-            <li><BiCheck className='service__list-icon'/>
+            {/* <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
             </li>
 
@@ -43,7 +43,7 @@ function Services() {
 
             <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
-            </li>
+            </li> */}
             
           </ul>
 
@@ -58,6 +58,10 @@ function Services() {
           <ul className='service__list'>
             
             <li><BiCheck className='service__list-icon'/>
+            <p>I'm expert in Web Development</p>
+            </li>
+
+            {/* <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
             </li>
 
@@ -79,11 +83,7 @@ function Services() {
 
             <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
-            </li>
-
-            <li><BiCheck className='service__list-icon'/>
-            <p>I'm expert in UI/US designing</p>
-            </li>
+            </li> */}
             
           </ul>
 
@@ -98,6 +98,10 @@ function Services() {
           <ul className='service__list'>
             
             <li><BiCheck className='service__list-icon'/>
+            <p>I'm expert in content Creating</p>
+            </li>
+
+            {/* <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
             </li>
 
@@ -119,11 +123,7 @@ function Services() {
 
             <li><BiCheck className='service__list-icon'/>
             <p>I'm expert in UI/US designing</p>
-            </li>
-
-            <li><BiCheck className='service__list-icon'/>
-            <p>I'm expert in UI/US designing</p>
-            </li>
+            </li> */}
             
           </ul>
 

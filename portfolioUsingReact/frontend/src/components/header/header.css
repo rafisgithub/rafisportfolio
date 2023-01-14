@@ -42,12 +42,12 @@
 
 .me {
 /* background:linear-gradient(var(--color-primary)); */
-width: 20rem;
+width: max-content;
 height: max-content;
 position: relative;
 left: calc(50% - 11rem);
 margin-top: 4rem;
-border-radius: 12rem 12rem 0 0;
+border-radius: 4rem 4rem 0 0;
 overflow: hidden;
 /* padding: 5rem 1.5rem 1.5rem 1.5rem ; */
 }
@@ -70,7 +70,12 @@ overflow: hidden;
     header{
         height: 90vh;
     }
-    
+    .me {
+        width: max-content;
+        height: max-content;
+       left: calc(66% - 11rem);;
+    }
+   
 }
 
 /* Media queries(small device) */
@@ -81,5 +86,11 @@ overflow: hidden;
     
     header {
         height: 100vh;
+    }
+
+    .me {
+        width: max-content;
+        height: max-content;
+       left: calc(66% - 11rem);;
     }
 }
